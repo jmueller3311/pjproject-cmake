@@ -3,6 +3,7 @@ lib/
 bin/
 output/
 tmp/
+out/
 
 # VS stuff
 *.ncb
@@ -86,3 +87,4 @@ tests/fuzz/*.o
 cov-int/
 getversion.mak
 configure.out
+/build
